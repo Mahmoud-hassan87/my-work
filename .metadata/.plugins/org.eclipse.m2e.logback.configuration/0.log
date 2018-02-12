@@ -1,0 +1,214 @@
+2018-02-12 09:59:41,800 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 09:59:43,406 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-1/src/main/java
+2018-02-12 09:59:43,407 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-1/src/main/resources
+2018-02-12 09:59:43,408 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-1/src/test/java
+2018-02-12 09:59:43,408 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-1/src/test/resources
+2018-02-12 09:59:43,526 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 09:59:52,153 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 09:59:52,210 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 09:59:52,252 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 09:59:52,254 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 09:59:52,255 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:19:51,314 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 10:19:51,400 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:19:51,403 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:19:51,404 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:19:51,405 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:20:01,087 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 10:20:01,122 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:20:01,123 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:20:01,124 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:20:01,125 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:20:13,619 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 10:20:13,658 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:20:13,659 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:20:13,660 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:20:13,660 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:20:33,754 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-12 10:20:33,806 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 10:20:33,840 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-1/src/main/java
+2018-02-12 10:20:33,840 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-1/src/main/resources
+2018-02-12 10:20:33,840 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-1/src/test/java
+2018-02-12 10:20:33,840 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-1/src/test/resources
+2018-02-12 10:20:33,902 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-02-12 10:20:34,133 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:20:34,135 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:20:34,137 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:20:34,138 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:21:21,169 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:21:21,210 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:21:21,211 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:21:21,212 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:21:25,877 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 10:21:25,929 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:21:25,930 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:21:25,931 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:21:25,932 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:21:30,679 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projects\my-work\spring-1
+2018-02-12 10:21:30,680 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s C:\Users\mahmoud_hassan\.m2\settings.xml clean
+2018-02-12 10:22:09,335 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-12 10:22:09,388 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 10:22:09,437 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-1/src/main/java
+2018-02-12 10:22:09,437 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-1/src/main/resources
+2018-02-12 10:22:09,437 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-1/src/test/java
+2018-02-12 10:22:09,437 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-1/src/test/resources
+2018-02-12 10:22:09,553 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-02-12 10:22:09,738 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 10:22:09,794 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:22:09,794 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:22:09,796 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:22:09,797 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:22:15,040 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projects\my-work\spring-1
+2018-02-12 10:22:15,040 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s C:\Users\mahmoud_hassan\.m2\settings.xml clean
+2018-02-12 10:22:40,041 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 10:22:40,092 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:22:40,093 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:22:40,094 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:22:40,095 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:23:06,667 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 10:23:07,158 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:07,562 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/org/springframework/spring-core/5.0.3.RELEASE/spring-core-5.0.3.RELEASE.pom
+2018-02-12 10:23:07,577 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:07,663 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/org/springframework/spring-core/5.0.3.RELEASE/spring-core-5.0.3.RELEASE.pom
+2018-02-12 10:23:07,674 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:07,857 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-core/5.0.3.RELEASE/spring-core-5.0.3.RELEASE.pom
+2018-02-12 10:23:07,859 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-core/5.0.3.RELEASE/spring-core-5.0.3.RELEASE.pom
+2018-02-12 10:23:09,165 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:09,246 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/io/projectreactor/reactor-bom/Bismuth-SR5/reactor-bom-Bismuth-SR5.pom
+2018-02-12 10:23:09,256 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:09,321 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/io/projectreactor/reactor-bom/Bismuth-SR5/reactor-bom-Bismuth-SR5.pom
+2018-02-12 10:23:09,327 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:09,444 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/io/projectreactor/reactor-bom/Bismuth-SR5/reactor-bom-Bismuth-SR5.pom
+2018-02-12 10:23:09,445 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/io/projectreactor/reactor-bom/Bismuth-SR5/reactor-bom-Bismuth-SR5.pom
+2018-02-12 10:23:09,519 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:09,595 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/io/netty/netty-bom/4.1.20.Final/netty-bom-4.1.20.Final.pom
+2018-02-12 10:23:09,604 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:09,667 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/io/netty/netty-bom/4.1.20.Final/netty-bom-4.1.20.Final.pom
+2018-02-12 10:23:09,673 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:09,786 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/io/netty/netty-bom/4.1.20.Final/netty-bom-4.1.20.Final.pom
+2018-02-12 10:23:09,786 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/io/netty/netty-bom/4.1.20.Final/netty-bom-4.1.20.Final.pom
+2018-02-12 10:23:09,907 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:10,005 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/org/springframework/spring-jcl/5.0.3.RELEASE/spring-jcl-5.0.3.RELEASE.pom
+2018-02-12 10:23:10,013 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:10,383 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/org/springframework/spring-jcl/5.0.3.RELEASE/spring-jcl-5.0.3.RELEASE.pom
+2018-02-12 10:23:10,389 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:10,519 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-jcl/5.0.3.RELEASE/spring-jcl-5.0.3.RELEASE.pom
+2018-02-12 10:23:10,520 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-jcl/5.0.3.RELEASE/spring-jcl-5.0.3.RELEASE.pom
+2018-02-12 10:23:10,600 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:10,698 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/org/springframework/spring-core/5.0.3.RELEASE/spring-core-5.0.3.RELEASE.jar
+2018-02-12 10:23:10,726 [New I/O client worker #13-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/org/springframework/spring-jcl/5.0.3.RELEASE/spring-jcl-5.0.3.RELEASE.jar
+2018-02-12 10:23:10,735 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:10,816 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/org/springframework/spring-core/5.0.3.RELEASE/spring-core-5.0.3.RELEASE.jar
+2018-02-12 10:23:10,817 [New I/O client worker #14-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/org/springframework/spring-jcl/5.0.3.RELEASE/spring-jcl-5.0.3.RELEASE.jar
+2018-02-12 10:23:10,826 [Worker-40] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:10,945 [New I/O client worker #15-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-jcl/5.0.3.RELEASE/spring-jcl-5.0.3.RELEASE.jar
+2018-02-12 10:23:10,969 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-core/5.0.3.RELEASE/spring-core-5.0.3.RELEASE.jar
+2018-02-12 10:23:11,002 [New I/O client worker #15-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-jcl/5.0.3.RELEASE/spring-jcl-5.0.3.RELEASE.jar
+2018-02-12 10:23:12,174 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-core/5.0.3.RELEASE/spring-core-5.0.3.RELEASE.jar
+2018-02-12 10:23:12,758 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:23:12,759 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:23:12,760 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:23:12,761 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:23:14,011 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 10:23:14,027 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:14,115 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/org/springframework/spring-context/5.0.3.RELEASE/spring-context-5.0.3.RELEASE.pom
+2018-02-12 10:23:14,132 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:14,224 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/org/springframework/spring-context/5.0.3.RELEASE/spring-context-5.0.3.RELEASE.pom
+2018-02-12 10:23:14,229 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:14,373 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-context/5.0.3.RELEASE/spring-context-5.0.3.RELEASE.pom
+2018-02-12 10:23:14,374 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-context/5.0.3.RELEASE/spring-context-5.0.3.RELEASE.pom
+2018-02-12 10:23:14,459 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:14,550 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/org/springframework/spring-aop/5.0.3.RELEASE/spring-aop-5.0.3.RELEASE.pom
+2018-02-12 10:23:14,555 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:14,721 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/org/springframework/spring-aop/5.0.3.RELEASE/spring-aop-5.0.3.RELEASE.pom
+2018-02-12 10:23:14,726 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:14,857 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-aop/5.0.3.RELEASE/spring-aop-5.0.3.RELEASE.pom
+2018-02-12 10:23:14,857 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-aop/5.0.3.RELEASE/spring-aop-5.0.3.RELEASE.pom
+2018-02-12 10:23:14,936 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:15,032 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/org/springframework/spring-beans/5.0.3.RELEASE/spring-beans-5.0.3.RELEASE.pom
+2018-02-12 10:23:15,037 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:15,119 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/org/springframework/spring-beans/5.0.3.RELEASE/spring-beans-5.0.3.RELEASE.pom
+2018-02-12 10:23:15,124 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:15,237 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-beans/5.0.3.RELEASE/spring-beans-5.0.3.RELEASE.pom
+2018-02-12 10:23:15,238 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-beans/5.0.3.RELEASE/spring-beans-5.0.3.RELEASE.pom
+2018-02-12 10:23:15,314 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:15,401 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/org/springframework/spring-expression/5.0.3.RELEASE/spring-expression-5.0.3.RELEASE.pom
+2018-02-12 10:23:15,452 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:15,530 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/org/springframework/spring-expression/5.0.3.RELEASE/spring-expression-5.0.3.RELEASE.pom
+2018-02-12 10:23:15,536 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:15,657 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-expression/5.0.3.RELEASE/spring-expression-5.0.3.RELEASE.pom
+2018-02-12 10:23:15,658 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-expression/5.0.3.RELEASE/spring-expression-5.0.3.RELEASE.pom
+2018-02-12 10:23:15,736 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:15,893 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/org/springframework/spring-context/5.0.3.RELEASE/spring-context-5.0.3.RELEASE.jar
+2018-02-12 10:23:15,900 [New I/O client worker #28-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/org/springframework/spring-aop/5.0.3.RELEASE/spring-aop-5.0.3.RELEASE.jar
+2018-02-12 10:23:15,920 [New I/O client worker #28-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/org/springframework/spring-beans/5.0.3.RELEASE/spring-beans-5.0.3.RELEASE.jar
+2018-02-12 10:23:15,921 [New I/O client worker #28-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-release/org/springframework/spring-expression/5.0.3.RELEASE/spring-expression-5.0.3.RELEASE.jar
+2018-02-12 10:23:15,936 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:16,018 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/org/springframework/spring-context/5.0.3.RELEASE/spring-context-5.0.3.RELEASE.jar
+2018-02-12 10:23:16,018 [New I/O client worker #29-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/org/springframework/spring-aop/5.0.3.RELEASE/spring-aop-5.0.3.RELEASE.jar
+2018-02-12 10:23:16,023 [New I/O client worker #29-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/org/springframework/spring-expression/5.0.3.RELEASE/spring-expression-5.0.3.RELEASE.jar
+2018-02-12 10:23:16,024 [New I/O client worker #29-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://10.68.20.32:8081/artifactory/libs-snapshot/org/springframework/spring-beans/5.0.3.RELEASE/spring-beans-5.0.3.RELEASE.jar
+2018-02-12 10:23:16,040 [Worker-37] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2018-02-12 10:23:16,158 [New I/O client worker #30-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-beans/5.0.3.RELEASE/spring-beans-5.0.3.RELEASE.jar
+2018-02-12 10:23:16,160 [New I/O client worker #30-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-aop/5.0.3.RELEASE/spring-aop-5.0.3.RELEASE.jar
+2018-02-12 10:23:16,173 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-context/5.0.3.RELEASE/spring-context-5.0.3.RELEASE.jar
+2018-02-12 10:23:16,175 [New I/O client worker #30-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-expression/5.0.3.RELEASE/spring-expression-5.0.3.RELEASE.jar
+2018-02-12 10:23:16,641 [New I/O client worker #30-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-expression/5.0.3.RELEASE/spring-expression-5.0.3.RELEASE.jar
+2018-02-12 10:23:16,792 [New I/O client worker #30-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-aop/5.0.3.RELEASE/spring-aop-5.0.3.RELEASE.jar
+2018-02-12 10:23:16,937 [New I/O client worker #30-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-beans/5.0.3.RELEASE/spring-beans-5.0.3.RELEASE.jar
+2018-02-12 10:23:17,944 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-context/5.0.3.RELEASE/spring-context-5.0.3.RELEASE.jar
+2018-02-12 10:23:18,924 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:23:18,925 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:23:18,925 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:23:18,926 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:23:20,192 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 10:23:20,284 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:23:20,285 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:23:20,286 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:23:20,287 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:23:34,658 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:23:34,659 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:23:34,660 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:23:34,661 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:23:51,147 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:23:51,148 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:23:51,149 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:23:51,150 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:24:07,397 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:24:07,398 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:24:07,399 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:24:07,400 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:24:14,366 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:24:14,367 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:24:14,369 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:24:14,370 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:24:38,412 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:24:38,413 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:24:38,414 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:24:38,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:24:57,629 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 10:24:58,365 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:24:58,366 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:24:58,367 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:24:58,367 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:24:59,165 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:24:59,165 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:24:59,166 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:24:59,167 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:25:16,597 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:25:16,598 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:25:16,600 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:25:16,600 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:26:24,605 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:26:24,606 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:26:24,607 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:26:24,607 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:27:08,811 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mh.spring.test:spring-1:0.0.1-SNAPSHOT @ D:\projects\my-work\spring-1\pom.xml.
+2018-02-12 10:27:09,095 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:27:09,096 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:27:09,097 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:27:09,098 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:27:33,294 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:27:33,296 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-12 10:27:33,297 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1256 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-12 10:27:33,299 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
